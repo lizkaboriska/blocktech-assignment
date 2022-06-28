@@ -1,0 +1,20 @@
+.tablesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: start;
+  justify-content: center;
+}
+
+.formItemsContainer {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+}
+
+.createOrder {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
