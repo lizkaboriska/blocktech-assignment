@@ -1,10 +1,18 @@
-To start the project:
+## Getting started
+
+Run:
   ```
   docker-compose up
   ```
 
+Build:
+  ```
+  docker-compose build
+  ```
 
+Open project at http://localhost:3000/
 
+## Task description
 
 Hi,
 
