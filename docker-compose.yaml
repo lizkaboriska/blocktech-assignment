@@ -14,12 +14,12 @@ services:
       MYSQL_PASSWORD: password
       MYSQL_HOST: db
     ports:
-      - "5000:5000"
+      - "3000:3000"
     depends_on:
       - db
     restart: on-failure
   client:
     build: ./client
     ports:
-      - "3000:3000"
+      - "8080:8080"
     restart: on-failure

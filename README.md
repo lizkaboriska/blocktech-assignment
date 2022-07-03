@@ -10,7 +10,7 @@ Build:
   docker-compose build
   ```
 
-Open project at http://localhost:3000/
+Open project at http://localhost:8080/
 
 ## Task description
 
