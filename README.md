@@ -1,3 +1,11 @@
+To start the project:
+  ```
+  docker-compose up
+  ```
+
+
+
+
 Hi,
 
 Please find below the exercise which is timeboxed to max 4 hours starting from now. The goal of the assignment is to demonstrate your design and coding skills. You can use your preferred programming language, libraries and frameworks.
